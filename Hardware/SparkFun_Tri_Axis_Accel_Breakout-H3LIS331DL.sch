@@ -9748,7 +9748,9 @@ http://www.kemet.com/Lists/ProductCatalog/Attachments/254/KEM_T2005_T491.pdf</de
 <text x="165.1" y="134.62" size="1.778" layer="94">Open JP1 to eliminate
 pull-up resistors</text>
 <text x="205.74" y="104.14" size="1.778" layer="94">JP2 selects LSB
-of I2C address</text>
+of I2C address
+Open Addr= 0x19
+Closed Addr=0x18</text>
 <text x="190.5" y="86.36" size="1.778" layer="94">Clear JP3 to enable SPI mode</text>
 <wire x1="147.32" y1="35.56" x2="147.32" y2="63.5" width="0.3048" layer="97" style="longdash"/>
 <wire x1="147.32" y1="63.5" x2="147.32" y2="129.54" width="0.3048" layer="97" style="longdash"/>
