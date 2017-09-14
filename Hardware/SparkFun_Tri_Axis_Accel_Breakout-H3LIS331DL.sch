@@ -9744,7 +9744,7 @@ http://www.kemet.com/Lists/ProductCatalog/Attachments/254/KEM_T2005_T491.pdf</de
 <sheet>
 <plain>
 <text x="172.72" y="7.62" size="3.81" layer="94">Mike Hord</text>
-<text x="239.268" y="6.096" size="3.81" layer="94">01</text>
+<text x="239.268" y="6.096" size="3.81" layer="94">10</text>
 <text x="165.1" y="134.62" size="1.778" layer="94">Open JP1 to eliminate
 pull-up resistors</text>
 <text x="205.74" y="104.14" size="1.778" layer="94">JP2 selects LSB
@@ -9761,6 +9761,7 @@ Closed Addr=0x18</text>
 <text x="104.14" y="121.92" size="3.81" layer="97">Accelerometer</text>
 <text x="83.82" y="55.88" size="3.81" layer="97">Bypass Capacitance</text>
 <text x="149.86" y="38.1" size="3.81" layer="97">Passives</text>
+<text x="78.74" y="147.32" size="2.54" layer="97">2.16V &lt; VCC &lt; 3.6V</text>
 </plain>
 <instances>
 <instance part="C2" gate="G$1" x="73.66" y="40.64"/>
