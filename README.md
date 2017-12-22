@@ -1,13 +1,13 @@
 SparkFun Triple Axis Accelerometer Breakout - HSLIS331DL
 ========================================
 
-![SparkFun Triple Axis Accelerometer Breakout - HSLIS331DL](https://cdn.sparkfun.com//assets/parts/4/7/6/8/10345-01.jpg)
+![SparkFun Triple Axis Accelerometer Breakout - H3LIS331DL](https://cdn.sparkfun.com//assets/parts/1/2/5/3/2/14480-01.jpg)
 
-[*SparkFun Triple Axis Accelerometer Breakout - HSLIS331DL (SEN-10345)*](https://www.sparkfun.com/products/10345)
+[*SparkFun Triple Axis Accelerometer Breakout - H4LIS331DL (SEN-14480)*](https://www.sparkfun.com/products/14480)
 
- This is a breakout board for the ultra low-power LIS331HH three axis linear accelerometer. 
+ This is a breakout board for the high-g H3LIS331DL three axis linear accelerometer. 
  The device has a digital I2C/SPI serial interface which makes it ideal for using in embedded applications. 
- All major pins are broken out to 0.1" spaced headers. It also includes two mounting holes as well.
+ All major pins are broken out to 0.1" spaced headers. It also includes four mounting holes as well.
  
 Repository Contents
 -------------------
@@ -15,11 +15,6 @@ Repository Contents
 * **/Firmware** - Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Production** - Production panel files (.brd)
-
-Documentation
---------------
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 
 License Information
 -------------------
