@@ -11,10 +11,13 @@ SparkFun Triple Axis Accelerometer Breakout - H3LIS331DL
  
 Repository Contents
 -------------------
-
-* **/Firmware** - Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Production** - Production panel files (.brd)
+
+Documentation
+-------------------
+* [Library](https://github.com/sparkfun/SparkFun_LIS331_Arduino_Library) - Arduino library for the H3LIS331DL.
+* [Hookup Guide](https://learn.sparkfun.com/tutorials/h3lis331dl-accelerometer-breakout-hookup-guide) - Basic hookup guide for the H3LIS331DL.
 
 License Information
 -------------------
