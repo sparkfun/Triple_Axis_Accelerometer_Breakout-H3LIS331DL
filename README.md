@@ -1,9 +1,9 @@
-SparkFun Triple Axis Accelerometer Breakout - HSLIS331DL
+SparkFun Triple Axis Accelerometer Breakout - H3LIS331DL
 ========================================
 
 ![SparkFun Triple Axis Accelerometer Breakout - H3LIS331DL](https://cdn.sparkfun.com//assets/parts/1/2/5/3/2/14480-01.jpg)
 
-[*SparkFun Triple Axis Accelerometer Breakout - H4LIS331DL (SEN-14480)*](https://www.sparkfun.com/products/14480)
+[*SparkFun Triple Axis Accelerometer Breakout - H3LIS331DL (SEN-14480)*](https://www.sparkfun.com/products/14480)
 
  This is a breakout board for the high-g H3LIS331DL three axis linear accelerometer. 
  The device has a digital I2C/SPI serial interface which makes it ideal for using in embedded applications. 
